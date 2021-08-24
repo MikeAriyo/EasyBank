@@ -1,0 +1,2 @@
+# EasyBank
+Frontend Mentor Challenge 
